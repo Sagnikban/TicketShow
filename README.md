@@ -1,4 +1,4 @@
-# IITM - TICKET SHOW 
+TICKET SHOW 
 
 <h2> An online show tickets booking web application </h2>
 
