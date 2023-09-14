@@ -70,16 +70,16 @@ https://user-images.githubusercontent.com/72061687/230785544-204310dc-f70c-4929-
 You need to clone (download) it to local machine using
 
 ```sh
-$ git clone https://github.com/SouvikChoudhury360/iitm-ticketshow.git
+$ git clone https://github.com/Sagnikban/TicketShow.git
 ```
 
 > This makes a local copy of repository in your machine.
 
-Once you have cloned the `iitm-ticketshow` repository from Github, move to that folder first using change directory command on linux terminal.
+Once you have cloned the `Ticketshow` repository from Github, move to that folder first using change directory command on linux terminal.
 
 ```sh
 # This will change directory to a folder  
-$ cd iitm-ticketshow
+$ cd Ticketshow
 ```
 
 Move to this folder for all other commands.
@@ -113,7 +113,7 @@ $ flask run
 
 <h2 align="center" id="DevelopedBy"> :label: Developed By</h2>
     
-   :arrow_right: [Souvik Choudhury](https://github.com/SouvikChoudhury360) (IITM BS DATA SCIENCE STUDENT)
+   :arrow_right: [Sagnik Banerjee](https://github.com/Sagnikban) 
 
 
 <i><p align="center"><a href="#content">⬆️ CLICK HERE TO GO BACK TO CONTENTS</a></p></i>
